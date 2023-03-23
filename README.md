@@ -28,3 +28,14 @@ python preprocess.py
 ```shell script
 python generating_questions_from_summary.py
 ```
+
+### Citation:
+```bibtex
+@inproceedings{lyu2021improving,
+  title={Improving Unsupervised Question Answering via Summarization-Informed Question Generation},
+  author={Lyu, Chenyang and Shang, Lifeng and Graham, Yvette and Foster, Jennifer and Jiang, Xin and Liu, Qun},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  pages={4134--4148},
+  year={2021}
+}
+```
